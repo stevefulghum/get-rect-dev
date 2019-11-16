@@ -8,3 +8,5 @@ if (window.netlifyIdentity) {
     }
   });
 }
+
+console.log(`Ignore me. I'm just an app shouting out into the void.`);
